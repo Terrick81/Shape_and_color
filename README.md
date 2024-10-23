@@ -1,5 +1,5 @@
 # Игра в жанре головоломка: "Shape and color"
-**URL^** [Shape and Color on Yandex Game](https://yandex.ru/games/app/341950)
+**URL:** [Shape and Color on Yandex Game](https://yandex.ru/games/app/341950)
 
 **Цель:** реализация игры с уникальной механикой, бесконечными генерируемями уровнями.
 
